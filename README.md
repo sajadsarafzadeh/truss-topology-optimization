@@ -70,5 +70,3 @@ The optimization was performed for different volume fractions:
 This demonstrates effective **automatic material redistribution** by the optimization algorithm.
 
 ---
-
-## 📂 Project Structure
